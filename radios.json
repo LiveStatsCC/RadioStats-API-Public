@@ -186,7 +186,7 @@
         "aliases": ["tsr", "tru", "truc", "truck", "trucks", "truckst", "trucksto", "truckstop", "truckstopr", "truckstopra", "truckstoprad", "truckstopradi"],
         "stream": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
         "website": "https://truckstopradio.co.uk",
-        "logo": "https://cdn.tomas.systems/__radio__/truckstopradio.png",
+        "logo": "https://cdn.discordapp.com/attachments/724912273344299038/847605614615199804/unknown-album.png",
         "hex": "#E8433D",
         "api": {
             "url": "https://api.tomas.systems/admin/tools/truckstopradio",
@@ -218,5 +218,25 @@
             "listeners": null,
             "listeners_data": null
         }
-    }
+     },
+     {
+        "id": 11,
+        "name": "Paradise",
+        "shortcode": "paradise",
+        "aliases": ["paradiseradio", "paradise radio"],
+        "stream": "https://stream.itsparadise.net/radio.mp3",
+        "website": "https://itsparadise.net",
+        "logo": "https://cdn.discordapp.com/attachments/818590955031887934/846868355352494090/1.png",
+        "hex": "#0585ff",
+        "api": {
+            "url": "https://api.itsparadise.net/stats",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "total"
+        }
+    }   
 ]

@@ -186,7 +186,7 @@
         "aliases": ["tsr", "tru", "truc", "truck", "trucks", "truckst", "trucksto", "truckstop", "truckstopr", "truckstopra", "truckstoprad", "truckstopradi"],
         "stream": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
         "website": "https://truckstopradio.co.uk",
-        "logo": "https://cdn.tomas.systems/__radio__/truckstopradio.png",
+        "logo": "https://cdn.discordapp.com/attachments/724912273344299038/847605614615199804/unknown-album.png",
         "hex": "#E8433D",
         "api": {
             "url": "https://api.tomas.systems/admin/tools/truckstopradio",

@@ -101,26 +101,6 @@
     },
     {
         "id": 5,
-        "name": "Harmony",
-        "shortcode": "harmony",
-        "aliases": ["har", "harm", "harmon", "haram"],
-        "stream": "https://radio.weareharmony.net/",
-        "website": "https://weareharmony.net/",
-        "logo": "https://cdn.tomas.systems/__radio__/harmony.png",
-        "hex": "#D267F4",
-        "api": {
-            "url": "https://staff.weareharmony.net/api/nowplaying",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "onAir",
-            "dj_name": "name",
-            "listeners": "",
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 6,
         "name": "BoltFM",
         "shortcode": "boltfm",
         "aliases": ["bol", "bolt", "boltf", "bfm"],
@@ -140,7 +120,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "AMPLIFY!",
         "shortcode": "amplify",
         "aliases": ["am", "amp", "ampl", "ampli", "amplif"],
@@ -160,7 +140,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "Livida",
         "shortcode": "livida",
         "aliases": ["li", "liv", "livi", "livid"],
@@ -180,7 +160,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "SimulatorHits",
         "shortcode": "simulatorhits",
         "aliases": ["si", "sim", "simu", "simul", "sumula", "simulat", "simulator", "simulatorh", "simulatorhi", "simulatorhit"],
@@ -200,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "TruckStopRadio",
         "shortcode": "truckstopradio",
         "aliases": ["tsr", "tru", "truc", "truck", "trucks", "truckst", "trucksto", "truckstop", "truckstopr", "truckstopra", "truckstoprad", "truckstopradi"],
@@ -217,6 +197,26 @@
             "dj_name": "name",
             "listeners": "listeners",
             "listeners_data": "unique"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Hits Radio",
+        "shortcode": "hits",
+        "aliases": ["hitsradio", "hitsuk"],
+        "stream": "https://stream-mz.planetradio.co.uk/net2wolverhampton.mp3?direct=true",
+        "website": "https://planetradio.co.uk/hits-radio/",
+        "logo": "https://assets.planetradio.co.uk/img/ConfigLockScreenImageUrl/352.jpg",
+        "hex": "#90ee90",
+        "api": {
+            "url": "https://listenapi.planetradio.co.uk/api9/initdadi/hits-radio",
+            "song": "stationNowPlaying",
+            "song_title": "nowPlayingTrack",
+            "song_artist": "nowPlayingArtist",
+            "dj": "stationOnAir",
+            "dj_name": "episodeTitle",
+            "listeners": null,
+            "listeners_data": null
         }
     }
 ]

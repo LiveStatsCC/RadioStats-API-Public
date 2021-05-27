@@ -218,5 +218,25 @@
             "listeners": null,
             "listeners_data": null
         }
+    },
+    {
+        "id": 11,
+        "name": "Kiss FM",
+        "shortcode": "kiss",
+        "aliases": ["kissfm", "kissfmuk"],
+        "stream": "https://stream-kiss.planetradio.co.uk/kissnational.mp3?direct=true",
+        "website": "https://planetradio.co.uk/kiss",
+        "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1618315029/brand_manager/stations/aci2ljh6tpzptbvizfxi.png",
+        "hex": "#5D2466",
+        "api": {
+            "url": "https://listenapi.planetradio.co.uk/api9/initdadi/kiss",
+            "song": "stationNowPlaying",
+            "song_title": "nowPlayingTrack",
+            "song_artist": "nowPlayingArtist",
+            "dj": "stationOnAir",
+            "dj_name": "episodeTitle",
+            "listeners": null,
+            "listeners_data": 0
+        }
     }
 ]

@@ -121,26 +121,6 @@
     },
     {
         "id": 7,
-        "name": "HabboHive",
-        "shortcode": "habbohive",
-        "aliases": ["hab", "habb", "habbo", "habboh", "habbohi", "habbohiv", "hh"],
-        "stream": "https://radio.habbohive.com/",
-        "website": "https://habbohive.com/",
-        "logo": "https://cdn.tomas.systems/__radio__/habbohive.png",
-        "hex": "#4A412A",
-        "api": {
-            "url": "https://api.tomas.systems/admin/tools/habbohive",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 8,
         "name": "AMPLIFY!",
         "shortcode": "amplify",
         "aliases": ["am", "amp", "ampl", "ampli", "amplif"],
@@ -160,7 +140,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "Livida",
         "shortcode": "livida",
         "aliases": ["li", "liv", "livi", "livid"],
@@ -180,7 +160,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "SimulatorHits",
         "shortcode": "simulatorhits",
         "aliases": ["si", "sim", "simu", "simul", "sumula", "simulat", "simulator", "simulatorh", "simulatorhi", "simulatorhit"],
@@ -200,7 +180,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "TruckStopRadio",
         "shortcode": "truckstopradio",
         "aliases": ["tsr", "tru", "truc", "truck", "trucks", "truckst", "trucksto", "truckstop", "truckstopr", "truckstopra", "truckstoprad", "truckstopradi"],

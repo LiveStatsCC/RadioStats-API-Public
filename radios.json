@@ -20,6 +20,26 @@
         }
     },
     {
+        "id": 1,
+        "name": "Bobby.Systems",
+        "shortcode": "bobby",
+        "aliases": ["bob", "bobb"],
+        "stream": "https://live.bobby.systems",
+        "website": "https://bobby.systems/Radio.Home",
+        "logo": "https://i.bobby.systems/01gqp.png",
+        "hex": "#FFFFFF",
+        "api": {
+            "url": "https://bobby.systems/api/radio",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
         "id": 2,
         "name": "KeyFM",
         "shortcode": "keyfm",
@@ -103,7 +123,7 @@
         "id": 6,
         "name": "BoltFM",
         "shortcode": "boltfm",
-        "aliases": ["bo", "bol", "bolt", "boltf", "bfm"],
+        "aliases": ["bol", "bolt", "boltf", "bfm"],
         "stream": "https://live.boltfm.net/",
         "website": "https://boltfm.net/",
         "logo": "https://cdn.tomas.systems/__radio__/boltfm.png",

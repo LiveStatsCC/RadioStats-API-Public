@@ -129,14 +129,14 @@
         "logo": "https://cdn.tomas.systems/__radio__/amplify.png",
         "hex": "#4A412A",
         "api": {
-            "url": "https://api.tomas.systems/admin/tools/amplify",
-            "song": "song",
-            "song_title": "title",
+            "url": "https://thisisamplify.net/api/stats",
+            "song": "now_playing",
+            "song_title": "song",
             "song_artist": "artist",
             "dj": "dj",
             "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
+            "listeners": null,
+            "listeners_data": "listeners"
         }
     },
     {

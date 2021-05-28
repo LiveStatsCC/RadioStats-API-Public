@@ -199,28 +199,8 @@
             "listeners_data": "unique"
         }
     },
-    {
-        "id": 10,
-        "name": "Hits Radio",
-        "shortcode": "hits",
-        "aliases": ["hitsradio", "hitsuk"],
-        "stream": "https://stream-mz.planetradio.co.uk/net2wolverhampton.mp3?direct=true",
-        "website": "https://planetradio.co.uk/hits-radio/",
-        "logo": "https://assets.planetradio.co.uk/img/ConfigLockScreenImageUrl/352.jpg",
-        "hex": "#90ee90",
-        "api": {
-            "url": "https://listenapi.planetradio.co.uk/api9/initdadi/hits-radio",
-            "song": "stationNowPlaying",
-            "song_title": "nowPlayingTrack",
-            "song_artist": "nowPlayingArtist",
-            "dj": "stationOnAir",
-            "dj_name": "episodeTitle",
-            "listeners": null,
-            "listeners_data": null
-        }
-     },
      {
-        "id": 11,
+        "id": 10,
         "name": "Paradise",
         "shortcode": "paradise",
         "aliases": ["paradiseradio", "paradise radio"],

@@ -1,5 +1,7 @@
 # RadioStats.Online
 
+Goodbye bobbyd.tech
+
 NOTE: If you wish for your station to be removed, please give valid reasoning to hi@bobby.systems or head to the RadioStats discord ([found here](https://radiostats.online/discord))
 
 If you wish to add your station to [RadioStats](https://radiostats.online) then please follow the instructions!

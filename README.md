@@ -1,6 +1,6 @@
 # RadioStats.Online
 
-NOTE: If you wish for your station to be removed, please give valid reasoning to hi@bobby.systems or head to the RadioStats discord ([found here](https://radiostats.online/discord))
+NOTE: If you wish for your station to be removed, please head to the RadioStats discord ([found here](https://discord.com/invite/uG554Ha3fj)) and contact a Developer
 
 If you wish to add your station to [RadioStats](https://radiostats.online) then please follow the instructions!
 
@@ -8,7 +8,7 @@ If you wish to add your station to [RadioStats](https://radiostats.online) then 
 
 Please fork the respository and add the following json entry for your station:
 
-(NOTE: If your station requires a special API to be made, please contact Bobby! in the RadioStats Discord!)
+(NOTE: If your station requires a special API to be made, please contact a Developer in the RadioStats Discord!)
 
 ```json
 {

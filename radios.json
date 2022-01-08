@@ -29,14 +29,14 @@
         "logo": "https://cdn.radiostats.online/Repeat.png",
         "hex": "#890606",
         "api": {
-            "url": "http://api.repeat.pw",
+            "url": "https://api.obobby.gg/radio/repeat",
             "song": "now",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
             "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
+            "listeners": null,
+            "listeners_data": "listeners"
         }
     },
     {
@@ -58,5 +58,66 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
-    }
+    },
+        {
+        "id": 3,
+        "name": "ItsWave",
+        "shortcode": "wave",
+        "aliases": ["wa", "wav"],
+        "stream": "https://az01.services.proxe.host/radio/8000/radio.mp3",
+        "website": "https://www.itswave.xyz",
+        "logo": "https://cdn.radiostats.online/Default.png",
+        "hex": "#33FBDF",
+        "api": {
+            "url": "https://api.obobby.gg/radio/itswave",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+            {
+        "id": 4,
+        "name": "Harmony",
+        "shortcode": "harmony",
+        "aliases": ["ha", "har", "harm", "harmo", "harmon"],
+        "stream": "https://radio.weareharmony.net",
+        "website": "https://weareharmony.net",
+        "logo": "https://cdn.radiostats.online/Default.png",
+        "hex": "#1C1D1D",
+        "api": {
+            "url": "https://api.obobby.gg/radio/harmony",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+                {
+        "id": 5,
+        "name": "Bunker",
+        "shortcode": "bunker",
+        "aliases": ["bu", "bun", "bunk", "bunke"],
+        "stream": "https://radio.bunker.dance/radio/8000/128.mp3",
+        "website": "https://bunker.dance",
+        "logo": "https://cdn.radiostats.online/Default.png",
+        "hex": "#040404",
+        "api": {
+            "url": "https://api.obobby.gg/radio/bunker",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    
 ]

@@ -16,7 +16,7 @@
             "dj": "dj",
             "dj_name": "name",
             "listeners": "listeners",
-            "listeners_data": "unique"
+            "listeners_data": "total"
         }
     },
     {

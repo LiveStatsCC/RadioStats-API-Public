@@ -1,222 +1,62 @@
 [
     {
         "id": 0,
-        "name": "Triple",
-        "shortcode": "triple",
-        "aliases": ["tri", "trip", "tripl"],
-        "stream": "https://charlie.itstriple.stream/stream",
-        "website": "https://itstriple.net",
-        "logo": "https://cdn.tomas.systems/__radio__/triple.png",
-        "hex": "#456494",
-        "api": {
-            "url": "https://api.itstriple.net/stats",
-            "song": "now_playing",
-            "song_title": "song",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 1,
-        "name": "Bobby.Systems",
-        "shortcode": "bobby",
-        "aliases": ["bob", "bobb"],
-        "stream": "https://live.bobby.systems",
-        "website": "https://bobby.systems/Radio.Home",
-        "logo": "https://i.bobby.systems/01gqp.png",
-        "hex": "#FFFFFF",
-        "api": {
-            "url": "https://bobby.systems/api/radio",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 2,
-        "name": "KeyFM",
-        "shortcode": "keyfm",
-        "aliases": ["ke", "key", "keyf", "kfm"],
-        "stream": "https://radio.keyfm.net",
-        "website": "https://keyfm.net",
-        "logo": "https://cdn.tomas.systems/__radio__/keyfm.png",
-        "hex": "#0086FE",
-        "api": {
-            "url": "http://185.215.215.178:7489/stats",
-            "song": "playing",
-            "song_title": "song",
-            "song_artist": "artist",
-            "dj": "currentDJ",
-            "dj_name": "username",
-            "listeners": "listeners",
-            "listeners_data": "current"
-        }
-    },
-    {
-        "id": 3,
-        "name": "FreshBeat",
-        "shortcode": "freshbeat",
-        "aliases": ["fr", "fre", "fresh", "freshb", "freshbe", "freshbea", "fbr", "fb"],
-        "stream": "https://sc2.radioserver.xyz/radio/8030/radio.mp3",
-        "website": "https://fbradio.uk",
-        "logo": "https://cdn.tomas.systems/__radio__/freshbeat.png",
-        "hex": "#043B1F",
-        "api": {
-            "url": "https://api.tomas.systems/admin/tools/freshbeat",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 4,
-        "name": "AceFM",
-        "shortcode": "acefm",
-        "aliases": ["ace", "ac", "afm"],
-        "stream": "https://live.acefm.uk",
-        "website": "https://acefm.uk/",
-        "logo": "https://cdn.tomas.systems/__radio__/acefm.png",
-        "hex": "#2D4059",
-        "api": {
-            "url": "https://api.acefm.uk/stats",
-            "song": "now_playing",
-            "song_title": "song",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 5,
-        "name": "BoltFM",
-        "shortcode": "boltfm",
-        "aliases": ["bol", "bolt", "boltf", "bfm"],
-        "stream": "https://live.boltfm.net/",
-        "website": "https://boltfm.net/",
-        "logo": "https://cdn.tomas.systems/__radio__/boltfm.png",
-        "hex": "#0585FE",
-        "api": {
-            "url": "https://api.tomas.systems/admin/tools/bolt",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 6,
-        "name": "AMPLIFY!",
-        "shortcode": "amplify",
-        "aliases": ["am", "amp", "ampl", "ampli", "amplif"],
-        "stream": "https://radioserver.thisisamplify.net/radio/8000/webplayer.mp3",
-        "website": "https://thisisamplify.net/",
-        "logo": "https://cdn.tomas.systems/__radio__/amplify.png",
-        "hex": "#4A412A",
-        "api": {
-            "url": "https://thisisamplify.net/api/stats",
-            "song": "now_playing",
-            "song_title": "song",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 7,
-        "name": "Livida",
-        "shortcode": "livida",
-        "aliases": ["li", "liv", "livi", "livid"],
-        "stream": "https://stream.livida.net/",
-        "website": "https://livida.net/",
-        "logo": "https://cdn.tomas.systems/__radio__/livida.png",
-        "hex": "#8101FF",
-        "api": {
-            "url": "https://api.tomas.systems/admin/tools/livida",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 8,
-        "name": "SimulatorHits",
-        "shortcode": "simulatorhits",
-        "aliases": ["si", "sim", "simu", "simul", "sumula", "simulat", "simulator", "simulatorh", "simulatorhi", "simulatorhit"],
-        "stream": "https://live.simulatorhits.com/",
-        "website": "https://simulatorhits.com/",
-        "logo": "https://cdn.tomas.systems/__radio__/simulatorhits.png",
-        "hex": "#BE4566",
-        "api": {
-            "url": "https://api.simulatorhits.com/v2/now-playing",
-            "song": "song",
-            "song_title": "name",
-            "song_artist": "artist",
-            "dj": "presenter",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 9,
-        "name": "TruckStopRadio",
-        "shortcode": "truckstopradio",
-        "aliases": ["tsr", "tru", "truc", "truck", "trucks", "truckst", "trucksto", "truckstop", "truckstopr", "truckstopra", "truckstoprad", "truckstopradi"],
-        "stream": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
-        "website": "https://truckstopradio.co.uk",
-        "logo": "https://cdn.discordapp.com/attachments/724912273344299038/847605614615199804/unknown-album.png",
-        "hex": "#E8433D",
-        "api": {
-            "url": "https://api.tomas.systems/admin/tools/truckstopradio",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-     {
-        "id": 10,
         "name": "Paradise",
         "shortcode": "paradise",
-        "aliases": ["paradiseradio", "paradise radio"],
-        "stream": "https://stream.itsparadise.net/radio.mp3",
+        "aliases": ["par", "parad", "paradi", "paradis"],
+        "stream": "https://az02.services.proxe.host/radio/8060/radio.mp3",
         "website": "https://itsparadise.net",
-        "logo": "https://cdn.discordapp.com/attachments/818590955031887934/846868355352494090/1.png",
-        "hex": "#0585ff",
+        "logo": "https://cdn.radiostats.online/Paradise.png",
+        "hex": "#0585FF",
         "api": {
-            "url": "https://api.itsparadise.net/stats",
+            "url": "http://109.106.1.183:4000",
             "song": "now",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
             "dj_name": "name",
             "listeners": "listeners",
-            "listeners_data": "total"
+            "listeners_data": "unique"
         }
-    }   
+    },
+    {
+        "id": 1,
+        "name": "Repeat",
+        "shortcode": "repeat",
+        "aliases": ["re", "rep", "repe", "repea"],
+        "stream": "https://live.repeat.pw",
+        "website": "https://repeat.pw",
+        "logo": "https://cdn.radiostats.online/Repeat.png",
+        "hex": "#890606",
+        "api": {
+            "url": "http://api.repeat.pw",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "unique"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Beats",
+        "shortcode": "beats",
+        "aliases": ["be", "bea", "beat", "beats"],
+        "stream": "https://stream.itsbeats.net/radio.mp3",
+        "website": "https://itsbeats.net",
+        "logo": "https://cdn.radiostats.online/Beats.png",
+        "hex": "#250A29",
+        "api": {
+            "url": "https://api.obobby.gg/radio/beats",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    }
 ]

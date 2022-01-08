@@ -30,7 +30,7 @@
         "hex": "#890606",
         "api": {
             "url": "https://api.obobby.gg/radio/repeat",
-            "song": "now",
+            "song": "song",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
@@ -50,7 +50,7 @@
         "hex": "#250A29",
         "api": {
             "url": "https://api.obobby.gg/radio/beats",
-            "song": "now",
+            "song": "song",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
@@ -70,7 +70,7 @@
         "hex": "#33FBDF",
         "api": {
             "url": "https://api.obobby.gg/radio/itswave",
-            "song": "now",
+            "song": "song",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
@@ -90,7 +90,7 @@
         "hex": "#1C1D1D",
         "api": {
             "url": "https://api.obobby.gg/radio/harmony",
-            "song": "now",
+            "song": "song",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
@@ -110,7 +110,7 @@
         "hex": "#040404",
         "api": {
             "url": "https://api.obobby.gg/radio/bunker",
-            "song": "now",
+            "song": "song",
             "song_title": "title",
             "song_artist": "artist",
             "dj": "dj",
@@ -118,6 +118,5 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
-    },
-    
+    }
 ]

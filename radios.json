@@ -86,7 +86,7 @@
         "aliases": ["ha", "har", "harm", "harmo", "harmon"],
         "stream": "https://radio.weareharmony.net",
         "website": "https://weareharmony.net",
-        "logo": "https://cdn.radiostats.online/Default.png",
+        "logo": "https://cdn.radiostats.online/Harmony.png",
         "hex": "#1C1D1D",
         "api": {
             "url": "https://api.obobby.gg/radio/harmony",
@@ -106,7 +106,7 @@
         "aliases": ["bu", "bun", "bunk", "bunke"],
         "stream": "https://radio.bunker.dance/radio/8000/128.mp3",
         "website": "https://bunker.dance",
-        "logo": "https://cdn.radiostats.online/Default.png",
+        "logo": "https://cdn.radiostats.online/Bunker.png",
         "hex": "#040404",
         "api": {
             "url": "https://api.obobby.gg/radio/bunker",

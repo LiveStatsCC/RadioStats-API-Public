@@ -1,6 +1,6 @@
 # RadioStats.Online
 
-NOTE: If you wish for your station to be removed, please head to the RadioStats discord ([found here](https://discord.com/invite/uG554Ha3fj)) and contact a Developer
+NOTE: If you wish for your station to be removed, please head to the RadioStats discord ([found here](https://discord.com/invite/uG554Ha3fj)) and contact a Developer.
 
 If you wish to add your station to [RadioStats](https://radiostats.online) then please follow the instructions!
 

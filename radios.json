@@ -287,7 +287,7 @@
         "stream": "https://stream.itsgrand.co",
         "website": "https://itsgrand.co",
         "logo": "https://cdn.livestats.cc/Grand.png",
-        "hex": "#fcba03",
+        "hex": "#d0a851",
         "api": {
             "url": "https://api.livestats.cc/api/grand",
             "song": "song",

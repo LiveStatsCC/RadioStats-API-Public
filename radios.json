@@ -238,5 +238,45 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
+    },
+    {
+        "id": 12,
+        "name": "ItsWave",
+        "shortcode": "wave",
+        "aliases": ["wa", "wav"],
+        "stream": "https://az01.services.proxe.host/radio/8000/radio.mp3",
+        "website": "https://www.itswave.xyz",
+        "logo": "https://cdn.radiostats.online/Default.png",
+        "hex": "#33FBDF",
+        "api": {
+            "url": "https://api.livestats.cc/api/itswave",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 13,
+        "name": "TruckersFM",
+        "shortcode": "tfm",
+        "aliases": ["tfm"],
+        "stream": "https://live.truckers.fm",
+        "website": "https://truckers.fm",
+        "logo": "https://cdn.livestats.cc/TruckersFM.png",
+        "hex": "#ff1493",
+        "api": {
+            "url": "https://api.livestats.cc/api/TruckersFM",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
     }
 ]

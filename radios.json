@@ -278,5 +278,25 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
+    },
+    {
+        "id": 14,
+        "name": "Grand",
+        "shortcode": "grand",
+        "aliases": ["gra"],
+        "stream": "https://stream.itsgrand.co",
+        "website": "https://itsgrand.co",
+        "logo": "https://cdn.livestats.cc/Grand.png",
+        "hex": "#fcba03",
+        "api": {
+            "url": "https://api.livestats.cc/api/grand",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
     }
 ]

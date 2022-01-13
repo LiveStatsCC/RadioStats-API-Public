@@ -1,27 +1,4 @@
 [
-    
-    
-    
-        {
-        "id": 0,
-        "name": "Itshyper",
-        "shortcode": "hyper",
-        "aliases": ["itshyp", "hyper", "its", "hyperr"],
-        "stream": "https://az01.services.proxe.host/radio/8100/radio.mp3",
-        "website": "https://itshyper.net",
-        "logo": "https://cdn.discordapp.com/attachments/917093705733795861/931236905515909160/4EBF6484-EDF6-4DB5-90F6-5A26A13D671B.png",
-        "hex": "#0585FF",
-        "api": {
-            "url": "https://az01.services.proxe.host/api/nowplaying/20",
-            "song": "now",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    }, 
     {
         "id": 0,
         "name": "Paradise",
@@ -320,6 +297,106 @@
             "dj_name": "name",
             "listeners": null,
             "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Beats",
+        "shortcode": "beats",
+        "aliases": ["itsbeats"],
+        "stream": "https://stream.itsbeats.net/radio.mp3",
+        "website": "https://itsbeats.net",
+        "logo": "https://cdn.livestats.cc/Beats.png",
+        "hex": "#4d2578",
+        "api": {
+            "url": "",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 16,
+        "name": "BladeFM",
+        "shortcode": "baldefm",
+        "aliases": ["blade"],
+        "stream": "https://stream.itsbeats.net/radio.mp3",
+        "website": "https://bladefm.com.au",
+        "logo": "https://cdn.livestats.cc/BladeFM.png",
+        "hex": "#9e288e",
+        "api": {
+            "url": "https://api.livestats.cc/api/bladefm",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 17,
+        "name": "CubeFM",
+        "shortcode": "cubefm",
+        "aliases": ["cube"],
+        "stream": "https://server.cubefm.nl/radio/8000/stream",
+        "website": "https://cubefm.nl",
+        "logo": "https://cdn.livestats.cc/CubeFM.png",
+        "hex": "#b56824",
+        "api": {
+            "url": "https://api.livestats.cc/api/cubefm",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 18,
+        "name": "FarmFM",
+        "shortcode": "farmfm",
+        "aliases": ["farm"],
+        "stream": "https://azura.farm-fm.com/radio/8000/radio.mp3",
+        "website": "https://farm-fm.com",
+        "logo": "https://cdn.livestats.cc/FarmFM.png",
+        "hex": "#2b6338",
+        "api": {
+            "url": "https://api.livestats.cc/api/farmfm",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Itshyper",
+        "shortcode": "hyper",
+        "aliases": ["itshyp", "hyper", "its", "hyperr"],
+        "stream": "https://az01.services.proxe.host/radio/8100/radio.mp3",
+        "website": "https://itshyper.net",
+        "logo": "https://cdn.discordapp.com/attachments/917093705733795861/931236905515909160/4EBF6484-EDF6-4DB5-90F6-5A26A13D671B.png",
+        "hex": "#0585FF",
+        "api": {
+            "url": "https://az01.services.proxe.host/api/nowplaying/20",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "unique"
         }
     }
 ]

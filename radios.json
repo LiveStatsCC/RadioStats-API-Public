@@ -1,4 +1,27 @@
 [
+    
+    
+    
+        {
+        "id": 0,
+        "name": "Itshyper",
+        "shortcode": "hyper",
+        "aliases": ["itshyp", "hyper", "its", "hyperr"],
+        "stream": "https://az01.services.proxe.host/radio/8100/radio.mp3",
+        "website": "https://itshyper.net",
+        "logo": "https://cdn.discordapp.com/attachments/917093705733795861/931236905515909160/4EBF6484-EDF6-4DB5-90F6-5A26A13D671B.png",
+        "hex": "#0585FF",
+        "api": {
+            "url": "https://az01.services.proxe.host/api/nowplaying/20",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "unique"
+        }
+    }, 
     {
         "id": 0,
         "name": "Paradise",

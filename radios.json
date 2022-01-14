@@ -389,7 +389,7 @@
         "logo": "https://cdn.livestats.cc/hyper.png",
         "hex": "#0585FF",
         "api": {
-            "url": "https://az01.services.proxe.host/api/nowplaying/20",
+            "url": "https://az01.services.proxe.host/api/nowplaying/19",
             "song": "now",
             "song_title": "title",
             "song_artist": "artist",

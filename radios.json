@@ -387,7 +387,7 @@
         "stream": "https://az01.services.proxe.host/radio/8100/radio.mp3",
         "website": "https://itshyper.net",
         "logo": "https://cdn.livestats.cc/hyper.png",
-        "hex": "#0585FF",
+        "hex": "#FF8B28",
         "api": {
             "url": "https://az01.services.proxe.host/api/nowplaying/19",
             "song": "now",

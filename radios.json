@@ -397,6 +397,25 @@
             "dj_name": "name",
             "listeners": "listeners",
             "listeners_data": "unique"
+    },
+    {
+        "id": 20,
+        "name": "Silver Radio",
+        "shortcode": "silver radio ",
+        "aliases": ["silv", "silver", "silver", "radio"],
+        "stream": "https://az01.services.proxe.host/radio/8200/radio.mp3",
+        "website": "https://itshyper.net",
+        "logo": "https://cdn.livestats.cc/silverradio.png",
+        "hex": "#E97451",
+        "api": {
+            "url": "https://api.livestats.cc/api/silverradio",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "unique"
         }
     }
 ]

@@ -378,5 +378,25 @@
             "listeners": null,
             "listeners_data": "listeners"
         }
+    },
+    {
+        "id": 19,
+        "name": "Hyper",
+        "shortcode": "hyper",
+        "aliases": ["itshyp", "hyper", "its", "hyperr"],
+        "stream": "https://az01.services.proxe.host/radio/8100/radio.mp3",
+        "website": "https://itshyper.net",
+        "logo": "https://cdn.livestats.cc/hyper.png",
+        "hex": "#E97451",
+        "api": {
+            "url": "az01.services.proxe.host/api/nowplaying/19",
+            "song": "now",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": "listeners",
+            "listeners_data": "unique"
+        }
     }
 ]

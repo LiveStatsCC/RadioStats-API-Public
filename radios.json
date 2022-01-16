@@ -397,6 +397,7 @@
             "dj_name": "name",
             "listeners": "listeners",
             "listeners_data": "unique"
+        }
     },
     {
         "id": 20,

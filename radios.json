@@ -161,13 +161,13 @@
     },
     {
         "id": 8,
-        "name": "Simulator Hits",
+        "name": "SimulatorHits",
         "shortcode": "simulatorhits",
         "aliases": ["simhits"],
         "stream": "https://radio.simulatorhits.com/radio/8000/stream",
         "website": "https://simulatorhits.com",
-        "logo": "https://cdn.livestats.cc/SH.png",
-        "hex": "#91305b",
+        "logo": "https://simulatorhits.com/images/SH_Logo.jpg",
+        "hex": "#DC2424",
         "api": {
             "url": "https://api.livestats.cc/api/simulatorhits",
             "song": "song",

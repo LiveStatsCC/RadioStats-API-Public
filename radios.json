@@ -206,8 +206,8 @@
         "aliases": ["stop"],
         "stream": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
         "website": "https://truckstopradio.co.uk",
-        "logo": "https://cdn.livestats.cc/TruckStopRadio.png",
-        "hex": "#c90a24",
+        "logo": "https://truckstopradio.co.uk/img/default-avatar.png",
+        "hex": "2056f8",
         "api": {
             "url": "https://api.livestats.cc/api/truckstopradio",
             "song": "song",

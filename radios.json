@@ -1,26 +1,6 @@
 [
     {
         "id": 0,
-        "name": "Paradise",
-        "shortcode": "paradise",
-        "aliases": ["par", "parad", "paradi", "paradis"],
-        "stream": "https://stream.itsparadise.net",
-        "website": "https://itsparadise.net",
-        "logo": "https://cdn.livestats.cc/Paradise.png",
-        "hex": "#0585FF",
-        "api": {
-            "url": "https://api.itsparadise.net/stats",
-            "song": "now",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 1,
         "name": "Repeat",
         "shortcode": "repeat",
         "aliases": ["re", "rep", "repe", "repea"],
@@ -40,7 +20,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "UrHitsRadio",
         "shortcode": "urhits",
         "aliases": ["ur", "urh", "urhi", "urhit"],
@@ -59,17 +39,17 @@
             "listeners_data": "listeners"
         }
     },
-        {
-        "id": 3,
-        "name": "Rave",
-        "shortcode": "rave",
-        "aliases": ["ra", "rav"],
-        "stream": "https://live.raveradio.net",
-        "website": "https://raveradio.net",
-        "logo": "https://cdn.livestats.cc/Rave.png",
-        "hex": "#2d2d30",
+    {
+        "id": 2,
+        "name": "Bounce",
+        "shortcode": "bounce",
+        "aliases": ["bou", "bounc"],
+        "stream": "https://derrick.xonosho.st/radio/8010/radio.mp3",
+        "website": "https://derrick.xonosho.st/radio/8010/radio.mp3",
+        "logo": "https://cdn.livestats.cc/Bounce.png",
+        "hex": "#9e1e5c",
         "api": {
-            "url": "https://api.livestats.cc/api/rave",
+            "url": "https://api.livestats.cc/api/bounce",
             "song": "song",
             "song_title": "title",
             "song_artist": "artist",
@@ -79,8 +59,8 @@
             "listeners_data": "listeners"
         }
     },
-            {
-        "id": 4,
+    {
+        "id": 3,
         "name": "Harmony",
         "shortcode": "harmony",
         "aliases": ["ha", "har", "harm", "harmo", "harmon"],
@@ -100,7 +80,7 @@
         }
     },
                 {
-        "id": 5,
+        "id": 4,
         "name": "Bunker",
         "shortcode": "bunker",
         "aliases": ["bu", "bun", "bunk", "bunke"],
@@ -120,7 +100,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "UpBeat",
         "shortcode": "upbeat",
         "aliases": ["up", "upb", "upbe", "upbea"],
@@ -140,7 +120,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "BigRigFM",
         "shortcode": "bigrig",
         "aliases": ["big", "rig"],
@@ -160,7 +140,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "SimulatorHits",
         "shortcode": "simulatorhits",
         "aliases": ["simhits"],
@@ -180,7 +160,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "TruckSimFM",
         "shortcode": "trucksim",
         "aliases": ["trucksim"],
@@ -200,14 +180,14 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "TruckStopRadio",
         "shortcode": "truckstop",
         "aliases": ["stop"],
         "stream": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
         "website": "https://truckstopradio.co.uk",
         "logo": "https://truckstopradio.co.uk/img/default-avatar.png",
-        "hex": "2056f8",
+        "hex": "#2056f8",
         "api": {
             "url": "https://api.livestats.cc/api/truckstopradio",
             "song": "song",
@@ -220,7 +200,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "Vibes Radio",
         "shortcode": "vibes",
         "aliases": ["vibe"],
@@ -240,7 +220,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "ItsWave",
         "shortcode": "wave",
         "aliases": ["wa", "wav"],
@@ -260,7 +240,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "TruckersFM",
         "shortcode": "tfm",
         "aliases": ["tfm"],
@@ -280,13 +260,13 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Grand",
         "shortcode": "grand",
         "aliases": ["gra"],
         "stream": "https://stream.itsgrand.co",
         "website": "https://itsgrand.co",
-        "logo": "https://cdn.discordapp.com/attachments/773676926590124075/931524159022960640/logo2.png",
+        "logo": "https://cdn.livestats.cc/Grand.png",
         "hex": "#d0a851",
         "api": {
             "url": "https://api.livestats.cc/api/grand",
@@ -300,27 +280,7 @@
         }
     },
     {
-        "id": 15,
-        "name": "Beats",
-        "shortcode": "beats",
-        "aliases": ["itsbeats"],
-        "stream": "https://stream.itsbeats.net/radio.mp3",
-        "website": "https://itsbeats.net",
-        "logo": "https://cdn.livestats.cc/Beats.png",
-        "hex": "#4d2578",
-        "api": {
-            "url": "",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 16,
+        "id": 14,
         "name": "BladeFM",
         "shortcode": "baldefm",
         "aliases": ["blade"],
@@ -340,16 +300,56 @@
         }
     },
     {
+        "id": 15,
+        "name": "Aqua",
+        "shortcode": "aqua",
+        "aliases": ["aqu"],
+        "stream": "https://live.itsaqua.net",
+        "website": "https://itsaqua.net",
+        "logo": "https://cdn.itsaqua.net/logo.png",
+        "hex": "#2980B9",
+        "api": {
+            "url": "https://api.livestats.cc/api/aqua",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
+        "id": 16,
+        "name": "HeartBeat",
+        "shortcode": "heart",
+        "aliases": ["hb"],
+        "stream": "https://stream.heartbeat-radio.live",
+        "website": "https://heartbeatradio.net",
+        "logo": "https://cdn.livestats.cc/heartbeat.png",
+        "hex": "#930056",
+        "api": {
+            "url": "https://api.livestats.cc/api/heartbeat",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
+        }
+    },
+    {
         "id": 17,
-        "name": "CubeFM",
-        "shortcode": "cubefm",
-        "aliases": ["cube"],
-        "stream": "https://server.cubefm.nl/radio/8000/stream",
-        "website": "https://cubefm.nl",
-        "logo": "https://cdn.livestats.cc/CubeFM.png",
-        "hex": "#b56824",
+        "name": "Vize",
+        "shortcode": "vize",
+        "aliases": ["vi"],
+        "stream": "https://live.vize.pw",
+        "website": "https://vize.pw",
+        "logo": "https://cdn.livestats.cc/vize.png",
+        "hex": "#808080",
         "api": {
-            "url": "https://api.livestats.cc/api/cubefm",
+            "url": "https://api.livestats.cc/api/vize",
             "song": "song",
             "song_title": "title",
             "song_artist": "artist",
@@ -357,66 +357,6 @@
             "dj_name": "name",
             "listeners": null,
             "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 18,
-        "name": "FarmFM",
-        "shortcode": "farmfm",
-        "aliases": ["farm"],
-        "stream": "https://azura.farm-fm.com/radio/8000/radio.mp3",
-        "website": "https://farm-fm.com",
-        "logo": "https://cdn.livestats.cc/FarmFM.png",
-        "hex": "#2b6338",
-        "api": {
-            "url": "https://api.livestats.cc/api/farmfm",
-            "song": "song",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": null,
-            "listeners_data": "listeners"
-        }
-    },
-    {
-        "id": 19,
-        "name": "Hyper Radio",
-        "shortcode": "hyper",
-        "aliases": ["itshyp", "hyper", "its", "hyperr"],
-        "stream": "https://azura01.itshyper.net/radio/8000/radio.mp3",
-        "website": "https://itshyper.net",
-        "logo": "https://cdn.livestats.cc/hyper.png",
-        "hex": "#E97451",
-        "api": {
-            "url": "azura01.itshyper.net/api/nowplaying/1",
-            "song": "now",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
-        }
-    },
-    {
-        "id": 20,
-        "name": "Silver Radio",
-        "shortcode": "silver radio ",
-        "aliases": ["silv", "silver", "silver", "radio"],
-        "stream": "https://az01.services.proxe.host/radio/8200/radio.mp3",
-        "website": "https://itshyper.net",
-        "logo": "https://cdn.livestats.cc/silverradio.png",
-        "hex": "#E97451",
-        "api": {
-            "url": "https://api.livestats.cc/api/silverradio",
-            "song": "now",
-            "song_title": "title",
-            "song_artist": "artist",
-            "dj": "dj",
-            "dj_name": "name",
-            "listeners": "listeners",
-            "listeners_data": "unique"
         }
     }
 ]

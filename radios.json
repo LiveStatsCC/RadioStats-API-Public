@@ -21,11 +21,11 @@
     },
     {
         "id": 1,
-        "name": "FreshbeatRadio",
+        "name": "FreshBeatRadio",
         "shortcode": "freshbeatradio",
         "aliases": ["fr", "fre", "fresh", "freshb"],
         "stream": "https://cast1.speedyhosts.uk/radio/8010/radio.mp3",
-        "website": "https://uhrlive.uk",
+        "website": "https://freshbeatradio.uk/home",
         "logo": "https://cdn.discordapp.com/attachments/858789659050770462/955824903783849984/fbradio.png",
         "hex": "#44ea93",
         "api": {
